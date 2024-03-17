@@ -26,4 +26,8 @@ A social network analysis performed on the Marvel Cinematic Universe(MCU). By cr
 - Extension of social network theory: considering the use of more complex social network theories and models, such as dynamic network analysis or heterogeneous network analysis, to better simulate the complex relationships between characters in Marvel movies.
 
 # Reference
-Ahnert, R., Ahnert, S. E., Coleman, C. N., & Weingart, S. B. (2020). The network turn: Changing perspectives in the humanities. Cambridge University Press.
+- Ahnert, R., Ahnert, S. E., Coleman, C. N., & Weingart, S. B. (2020). The network turn: Changing perspectives in the humanities. Cambridge University Press.
+- Github: https://github.com/mykilee/SOFTWARE-GROUP-5.git
+- IMDb: https://www.imdb.com/title/tt4154796/fullcredits?ref_=tt_ql_1
+- Marvel: https://www.marvel.com
+- MCU: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
